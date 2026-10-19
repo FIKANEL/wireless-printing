@@ -8,3 +8,6 @@ Sumatra*.exe
 SumatraPDF-settings.txt
 printed_output/
 .DS_Store
+.env
+.env.*
+!.env.example
