@@ -11,3 +11,5 @@ printed_output/
 .env
 .env.*
 !.env.example
+temp_uploads/
+localprint*.zip
